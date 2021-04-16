@@ -1,0 +1,25 @@
+p {
+  text-align: justify;
+}
+
+a {
+  color: #0066b3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+body {
+  padding: 0.25em;
+  font-family: 'Lato', sans-serif;
+}
