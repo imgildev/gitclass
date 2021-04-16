@@ -16,5 +16,5 @@ experiencias de cda una de las alumnas que participaron en el bootcamp.
 
 ## Autor
 
-- **Manuel Gil** - [ManuelGil](https://github.com/ManuelGil) / [ManuelGil](https://github.com/imgildev)
+- **Manuel Gil** - [ManuelGil](https://github.com/ManuelGil) / [imgildev](https://github.com/imgildev)
 
