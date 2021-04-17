@@ -5,7 +5,7 @@ Este repositorio hace parte del curso de control de versiones con Git y GitHub.
 ## Reglas del repositorio
 
 El reto consiste en escribir de manera conjunta una pagina en la cual puedan leerse las
-experiencias de cda una de las alumnas que participaron en el bootcamp.
+experiencias de cada una de las alumnas que participaron en el bootcamp.
 
 ### ¿Cómo iniciar?
 
@@ -17,4 +17,5 @@ experiencias de cda una de las alumnas que participaron en el bootcamp.
 ## Autor
 
 - **Manuel Gil** - [ManuelGil](https://github.com/ManuelGil) / [imgildev](https://github.com/imgildev)
+- **Lupis** - [lupis](https://github.com/luar_1) 
 
