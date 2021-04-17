@@ -14,7 +14,9 @@ experiencias de cada una de las alumnas que participaron en el bootcamp.
 - Agrega cambios a los archivos del repositorio y publicalos.
 - Solicita un 'Pull Request' con tus cambios.
 
-## Autores
+## Autoras
 
+- **Alex Camacho** - [alexcamachogz](https://github.com/alexcamachogz)
 - **Manuel Gil** - [ManuelGil](https://github.com/ManuelGil) / [imgildev](https://github.com/imgildev)
 - **Mayra Zurita** - [Mizrmx](https://github.com/Mizrmx) / [Twitter](https://twitter.com/mizrmx)
+- **Lupis** - [lupis](https://github.com/luar_1) 
