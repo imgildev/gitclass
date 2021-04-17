@@ -16,5 +16,6 @@ experiencias de cada una de las alumnas que participaron en el bootcamp.
 
 ## Autores
 
+- **Alex Camacho** - [alexcamachogz](https://github.com/alexcamachogz)
 - **Manuel Gil** - [ManuelGil](https://github.com/ManuelGil) / [imgildev](https://github.com/imgildev)
 - **Mayra Zurita** - [Mizrmx](https://github.com/Mizrmx)
