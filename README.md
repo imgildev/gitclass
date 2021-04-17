@@ -17,4 +17,4 @@ experiencias de cada una de las alumnas que participaron en el bootcamp.
 ## Autores
 
 - **Manuel Gil** - [ManuelGil](https://github.com/ManuelGil) / [imgildev](https://github.com/imgildev)
-- **Mayra Zurita** - [Mizrmx](https://github.com/Mizrmx) / [Twitter] (https://twitter.com/mizrmx)
+- **Mayra Zurita** - [Mizrmx](https://github.com/Mizrmx) / [Twitter](https://twitter.com/mizrmx)
