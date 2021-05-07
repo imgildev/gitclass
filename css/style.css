@@ -1,3 +1,21 @@
+.comentario{
+  margin: 15px;
+  padding: 20px;
+  
+}
+.comment-container{
+  position:relative;
+  width:80%;
+  height: 800px;
+  background: #f9f3f3;
+  margin:auto;
+  border-radius:5px;
+
+}
+.logo{
+  position: flex;
+  height: 200px;
+}
 p {
   text-align: justify;
 }
@@ -22,4 +40,5 @@ h3 {
 body {
   padding: 0.25em;
   font-family: 'Lato', sans-serif;
+  background-color: #132c33;
 }
