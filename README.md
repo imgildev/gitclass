@@ -20,4 +20,7 @@ experiencias de cada una de las alumnas que participaron en el bootcamp.
 - **Manuel Gil** - [ManuelGil](https://github.com/ManuelGil) / [imgildev](https://github.com/imgildev)
 - **Mayra Zurita** - [Mizrmx](https://github.com/Mizrmx) / [Twitter](https://twitter.com/mizrmx)
 - **Lupis** - [lupis](https://github.com/luar_1)
+- **Berty Pérez** - [Cariloha](https://github.com/Cariloha)
+- **Leslie Cazarez** - [Lesliecazarez](https://github.com/Lesliecazarez)
 - **Mariana Medina** - [Pistache90](https://github.com/Pistache90)
+- **Andrea Rodríguez** - [AndreaRoMa](https://github.com/AndreaRoMa)
