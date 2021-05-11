@@ -24,3 +24,4 @@ experiencias de cada una de las alumnas que participaron en el bootcamp.
 - **Leslie Cazarez** - [Lesliecazarez](https://github.com/Lesliecazarez)
 - **Mariana Medina** - [Pistache90](https://github.com/Pistache90)
 - **Andrea Rodríguez** - [AndreaRoMa](https://github.com/AndreaRoMa)
+- **Lorena Gallas** - [togal1](https://github.com/togal1)
